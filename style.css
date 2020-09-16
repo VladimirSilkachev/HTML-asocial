@@ -1,0 +1,45 @@
+.align_center {
+    text-align: center;
+}
+
+.align_left {
+    text-align: left;
+}
+
+.list {
+    font-size: 1px;
+    padding: 20px 0 0 20px;
+    list-style: none;
+    margin: 10px 1px 1px 105px;
+}
+
+.body_main {
+    background: beige url('fone_bitard.jpg') no-repeat left top;
+    background-size: 130px 300px;
+}
+
+body {
+    background: beige;
+}
+
+.enter {
+    margin: 0 500px 70px 105px;
+    padding: 20px 0 0 20px;
+    font-size: smaller;
+}
+
+.diary {
+    margin: 0 0 0 120px;
+}
+
+.news {
+    float: right;
+    font-size: medium;
+    margin: 0 250px 0 0;
+}
+.empty {
+    float: right;
+    font-size: medium;
+    margin: 0 250px 0 0;
+
+}
